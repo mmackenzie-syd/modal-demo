@@ -2,10 +2,13 @@
 
 ### Example Modal window with ReactJS, taken from article of Alex Suarez:
 
-`https://dev.to/alexandprivate/your-next-react-modal-with-your-own-usemodal-hook-context-api-3jg7`
+[https://dev.to/alexandprivate/your-next-react-modal-with-your-own-usemodal-hook-context-api-3jg7](https://dev.to/alexandprivate/your-next-react-modal-with-your-own-usemodal-hook-context-api-3jg7)
 
 
-### Requires Tailwindcss; add link in public/index.html:
+### Requires Tailwindcss:
+[https://tailwindcss.com/](https://tailwindcss.com/)
+
+### Add cdn link in public/index.html:
 
 `<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">`
 
