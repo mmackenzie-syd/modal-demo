@@ -1,4 +1,3 @@
-import './App.css';
 import React from "react";
 import { ModalProvider } from "./modalContext";
 import Component from "./Component";
